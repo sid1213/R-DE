@@ -1,4 +1,4 @@
-# R-DE
+# RODE
 This is a RODE clone project which i have made with using Tailwind css the beuty of this that there is no css used all things i'm doing with tailwind.
 
 ## Project gallery
