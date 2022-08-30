@@ -14,4 +14,4 @@ i have used
 # What i lerned 
 i have learned how to build a full landing page of any website using tailwind also i have learned that how we can use tailwind in local and creating a minify version of html css using vite webpack.
 # live link 
-[here](https://dashing-trifle-a24a74.netlify.app/)
+[here](https://dashing-trifle-a24a74.netlify.app)
